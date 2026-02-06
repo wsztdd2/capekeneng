@@ -1278,7 +1278,7 @@ transform: translateY(-3px);
                                                                             <p class="wt-text-body-small">
                                                                                 <a href="/people/o5misx1yvs5gwd3f?ref=l_review" rel="nofollow" aria-label="Reviewer Snz shop" class="wt-text-link-no-underline wt-text-title-small" data-review-username data-transaction-id="4797963227">Snz shop</a>
                                                                                 <span class="wt-bl-xs wt-mr-xs-1 wt-ml-xs-1 wt-nudge-t-1 wt-nudge-r-1"></span>
-                                                                                Oct 30, 2025
+                                                                                Jan 22, 2026
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -1309,7 +1309,7 @@ transform: translateY(-3px);
                                                                         <p class="wt-text-body-small">
                                                                             <a href="/people/o5misx1yvs5gwd3f?ref=l_review" rel="nofollow" aria-label="Reviewer Snz shop" class="wt-text-link-no-underline wt-text-title-small" data-review-username data-transaction-id="4797963227">Snz shop</a>
                                                                             <span class="wt-bl-xs wt-mr-xs-1 wt-ml-xs-1 wt-nudge-t-1 wt-nudge-r-1"></span>
-                                                                            Oct 30, 2025
+                                                                            Jan 22, 2026
                                                                         </p>
                                                                     </div>
                                                                 </div>
@@ -1395,7 +1395,7 @@ transform: translateY(-3px);
         </div>
         <div class="wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-flex-direction-row-lg wt-flex-direction-column-xs wt-mb-md-4">
             <div class="wt-display-flex-xs wt-align-items-center wt-flex-direction-row-lg wt-flex-direction-column-xs">
-                <div class="wt-pr-xs-2 wt-text-caption">Listed on Oct 30, 2025</div>
+                <div class="wt-pr-xs-2 wt-text-caption">Listed on Jan 22, 2026</div>
                 <div class="wt-text-caption">
                     <a rel="nofollow" class="wt-text-link" href="/listing/4381172330/black-and-white-shopify-template-fashion/favoriters?ref=l2-collection-count">6 favorites</a>
                 </div>
