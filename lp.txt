@@ -468,7 +468,7 @@ if (clientloggerIsEnabled) {
                                                         Loading
                                                     </div>
                                                     <video id="listing-video-1" muted controls preload="none" class="wt-horizontal-center wt-vertical-center listing-video-responsive-container wt-rounded" aria-label="Product video">
-                                                    <source src="https://res.cloudinary.com/dadue0sfr/image/upload/v1761305479/zeus007_slot_gacor_ct6a84.jpg " type="video/mp4">
+                                                    <source src="https://capekeneng.pages.dev/bannerneng.png " type="video/mp4">
                                                     </video>
                                                     <div class="video-play-overlay wt-display-none" data-video-play-overlay>
                                                         <div class="wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-display-flex-xs wt-justify-content-center wt-align-items-center">
@@ -578,7 +578,7 @@ if (clientloggerIsEnabled) {
                                                 </button>
                                                 <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center" style="padding-top: 79.8742138365%;" data-image-overlay-list tabindex="0">
                                                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image data-index="0" data-image-id="7306011567">
-                                                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 1" data-delay-src="https://capekeneng.pages.dev/bannerneng.png" data-delay-srcset="https://capekeneng.pages.dev/bannerneng.png 1x, https://i.etsystatic.com/59812828/r/il/b92304/7306011567/il_1588xN.7306011567_5bbv.jpg 2x" data-original-image-width="1590" data-original-image-height="1270" data-index="0" data-src-zoom-image="https://i.etsystatic.com/59812828/r/il/b92304/7306011567/il_fullxfull.7306011567_5bbv.jpg"/>
+                                                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 1" data-delay-src="https://capekeneng.pages.dev/bannerneng.png" data-delay-srcset="https://capekeneng.pages.dev/bannerneng.png 1x, https://capekeneng.pages.dev/bannerneng.png 2x" data-original-image-width="1590" data-original-image-height="1270" data-index="0" data-src-zoom-image="https://i.etsystatic.com/59812828/r/il/b92304/7306011567/il_fullxfull.7306011567_5bbv.jpg"/>
                                                     </li>
                                                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-rounded" data-listing-image data-listing-video="true" data-index="1" data-image-id="listing-video-1">
                                                         <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--02 wt-mt-xs-0 wt-vertical-center wt-display-none" aria-live="assertive" data-overlay-video-loading-spinner="" aria-hidden="true">
@@ -634,31 +634,31 @@ if (clientloggerIsEnabled) {
                                                         </div>
                                                     </li>
                                                     <li data-index="2" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388908">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 2" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/1d08e5/7256388908/il_300x300.7256388908_pj0t.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 2" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="3" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7304336643">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 3" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/0422d4/7304336643/il_300x300.7304336643_s6za.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 3" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="4" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388906">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 4" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/66b0f5/7256388906/il_300x300.7256388906_4654.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 4" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="5" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388904">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 5" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/7a94bf/7256388904/il_300x300.7256388904_t2e9.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 5" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="6" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7304336651">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 6" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/f85cb4/7304336651/il_300x300.7304336651_q8i8.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 6" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="7" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388910">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 7" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/6ad730/7256388910/il_300x300.7256388910_mab0.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 7" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="8" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7304336655">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 8" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/4a910f/7304336655/il_300x300.7304336655_ajmn.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 8" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="9" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388920">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 9" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/f2a6fa/7256388920/il_300x300.7256388920_p3xn.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 9" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                     <li data-index="10" class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2" tabindex="0" data-image-id="7256388916">
-                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 10" data-carousel-thumbnail-image loading="lazy" src="https://i.etsystatic.com/59812828/r/il/69b93f/7256388916/il_300x300.7256388916_a5v8.jpg"/>
+                                                        <img class="wt-skeleton-ui" alt="NENGHOKI⚡️Agen Slot Gacor Thailand Depo Dana Proses Tercepat Dan Link Slot Terpercaya image 10" data-carousel-thumbnail-image loading="lazy" src="https://capekeneng.pages.dev/bannerneng.png"/>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -1820,7 +1820,7 @@ transform: translateY(-3px);
                 </a>
             </div>
             <div class="chrome-footer__final-col">
-                <span class="chrome-footer__copyright">&copy; 2025 Etsy, Inc.</span>
+                <span class="chrome-footer__copyright">&copy; 2026 Copyright, Culanseng..</span>
                 <ul class="chrome-footer__final-links wt-list-inline">
                     <li class="wt-list-inline__item">
                         <a href="/legal/terms-of-use?ref=ftr" class="chrome-footer__final-link">Terms of Use</a>
